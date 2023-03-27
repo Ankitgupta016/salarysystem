@@ -1,0 +1,40 @@
+form{
+    margin-left: 20px;
+}
+h1{
+    margin-left: 20px;
+}
+
+label {
+    display: inline-block;
+    width: fit-content;
+    text-align: right;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 150px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  select {
+    width: 155px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
